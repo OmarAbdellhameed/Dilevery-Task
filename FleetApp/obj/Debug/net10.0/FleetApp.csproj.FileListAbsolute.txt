@@ -1,0 +1,15 @@
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\bin\Debug\net10.0\FleetApp.exe
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\bin\Debug\net10.0\FleetApp.deps.json
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\bin\Debug\net10.0\FleetApp.runtimeconfig.json
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\bin\Debug\net10.0\FleetApp.dll
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\bin\Debug\net10.0\FleetApp.pdb
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.AssemblyInfoInputs.cache
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.AssemblyInfo.cs
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.sourcelink.json
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.dll
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\refint\FleetApp.dll
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.pdb
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\FleetApp.genruntimeconfig.cache
+D:\OneDrive - Nile University\MLSA\Dilevery Task\FleetApp\obj\Debug\net10.0\ref\FleetApp.dll
