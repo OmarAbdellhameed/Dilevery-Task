@@ -1,7 +1,6 @@
 using System;
 using System.Runtime.CompilerServices;
 using System.Transactions;
-
 namespace BaseVehicle
 {
     public class DeliveryTruck : IDeliverable
@@ -49,7 +48,7 @@ namespace BaseVehicle
             Console.WriteLine("Delivery Truck engine started.");
         }
 
-        public bool RequiresSpecialDocking
+        public virtual bool RequiresSpecialDocking
         {
             get { return false; }
         }

@@ -1,5 +1,5 @@
 using System;
-namespace Deliverable
+namespace BaseVehicle
 {
     public interface IDeliverable
     {
